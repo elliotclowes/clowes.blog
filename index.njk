@@ -1,0 +1,13 @@
+---
+pagination:
+  data: collections.postsOnly
+  size: 1000
+  alias: posts
+layout: base.njk
+title: Home
+---
+
+{% import "postMacro.njk" as postMacro %}
+{% for post in posts %}
+  {{ postMacro.single_post(post.data.title, post.url, post.templateContent, post.date) }}
+{% endfor %}

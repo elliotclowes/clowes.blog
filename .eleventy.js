@@ -11,4 +11,10 @@ module.exports = function(eleventyConfig) {
     const dateTime = DateTime.fromJSDate(dateObj, {zone: 'utc'});
     return `${dateTime.toFormat('LLL d, yyyy · h:mm a')}`;
   });
+
+  eleventyConfig.addCollection("postsOnly", function(collectionApi) {
+    return collectionApi.getAll().filter(item => {
+      return item.inputPath.startsWith('./posts/');
+    });
+  });
 };
