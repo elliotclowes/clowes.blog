@@ -17,4 +17,10 @@ module.exports = function(eleventyConfig) {
       return item.inputPath.startsWith('./posts/');
     });
   });
+
+  eleventyConfig.addCollection("sortedPosts", function(collection) {
+    return collection.getFilteredByGlob("posts/*.md").sort(function(a, b) {
+      return b.date - a.date;
+    });
+  });
 };
