@@ -1,7 +1,7 @@
 ---
-layout: base.njk
+layout: post.njk
 title: My Post
-date: 2023-09-01
+date: 2023-09-01T10:30:00
 tags: ['post', 'tech', 'tutorial']
 ---
 

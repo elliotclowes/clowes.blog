@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: post.njk
 title: Video test
 date: 2023-09-01
 ---

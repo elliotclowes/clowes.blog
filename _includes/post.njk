@@ -14,7 +14,7 @@
 </nav>
 <article class="flex flex-col gap-8 grow">
   {{ content | safe }}
-  <time>{{ date }}</time>
+  <span class="text-neutral-400"><time>{{ date | customDate }}</time></span>
   </article>
 <footer class="mt-24">
 Follow <a href="https://twitter.com/nota_md">@nota_md</a> for updates.
