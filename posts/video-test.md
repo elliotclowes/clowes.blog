@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Video test
-date: 2023-09-01
+date: 2023-09-01T10:34:00
 ---
 
 This is the content.

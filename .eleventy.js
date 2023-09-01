@@ -2,7 +2,9 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   // Copy `assets/` to `_site/assets`
-  eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("static");
+  eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("vid");
   eleventyConfig.addPassthroughCopy("css");
 
   eleventyConfig.addFilter("customDate", (dateObj) => {

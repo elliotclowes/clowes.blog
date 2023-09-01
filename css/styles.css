@@ -1174,6 +1174,7 @@ span.tertiary {
 }
 
 .mastodon-username {
+  margin-top: 10px;
   font-size: 22px;
   color: #657786;
 }
