@@ -13,13 +13,24 @@
 <a class href='/buy'>pricing</a>
 </nav>
 <article class="flex flex-col gap-8 grow">
-  <h1>Welcome to My Personal Twitter-like Site</h1>
+  <div class="mastodon-card" id="mastodon-card">
+    <div class="mastodon-header">
+        <img src="/assets/static/elliot-clowes.jpg" alt="User Avatar" class="mastodon-avatar">
+        <div class="mastodon-user">
+            <div class="mastodon-display-name"><a href="https://mastodon.cloud/@clowes">Elliot Clowes</a></div>
+            <div class="mastodon-username"><a href="https://mastodon.cloud/@clowes">@clowes</a></div>
+        </div>
+    </div>
+    <div class="mastodon-content">
+      <h1>Welcome to My Personal Twitter-like Site</h1>
 <p>Check out my latest posts:</p>
 <ul>
 <li><a href="/posts/test.html">My Post</a></li>
 </ul>
 
-  <span class="text-neutral-400"><time>Invalid DateTime NaNth, Invalid DateTime</time></span>
+    </div>
+    <div class="mastodon-footer"><a href="#">Invalid DateTime</a></div>
+  </div>
   </article>
 <footer class="mt-24">
 Follow <a href="https://twitter.com/nota_md">@nota_md</a> for updates.
@@ -27,3 +38,4 @@ Follow <a href="https://twitter.com/nota_md">@nota_md</a> for updates.
 <script src="/js/scripts.js"></script>
 </body>
 </html>
+
