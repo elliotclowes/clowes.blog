@@ -31,4 +31,22 @@ module.exports = function(eleventyConfig) {
     });
     return [...tagSet];
   });
+
+  eleventyConfig.addCollection("sortedPostsByTag", function(collection) {
+    let tagsMap = {};
+    collection.getAll().forEach(item => {
+      (item.data.tags || []).forEach(tag => {
+        if (!tagsMap[tag]) {
+          tagsMap[tag] = [];
+        }
+        tagsMap[tag].push(item);
+      });
+    });
+  
+    for (let tag in tagsMap) {
+      tagsMap[tag].sort((a, b) => b.date - a.date);
+    }
+  
+    return tagsMap;
+  });
 };

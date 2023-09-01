@@ -4,9 +4,16 @@ pagination:
   size: 1
   alias: "tag"
   addAllPagesToCollections: true
+layout: base.njk
 permalink: "tag/{{ tag }}/index.html"
 ---
 
-{% for post in collections[tag] %}
-  <a href="{{ post.url }}">{{ post.data.title }}</a>
+{% import "postMacro.njk" as postMacro %}
+
+<center><h2><span class="text-neutral-400"><time>tag: </time></span>{{ tag }}</h2></center>
+
+<br/>
+
+{% for post in collections.sortedPostsByTag[tag] %}
+  {{ postMacro.single_post(post.data.title, post.url, post.templateContent, post.date) }}
 {% endfor %}
