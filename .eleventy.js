@@ -1,7 +1,7 @@
 module.exports = function(eleventyConfig) {
-    // Pass-through copy for CSS
-    eleventyConfig.addPassthroughCopy("css");
-    
-    // ... any other configuration or plugins
-  };
+  // Copy `assets/` to `_site/assets`
+  eleventyConfig.addPassthroughCopy("assets");
+  
+  eleventyConfig.addPassthroughCopy("css");
+};
   

@@ -1,0 +1,4 @@
+{
+    "permalink": "{{ date | date: '%Y/%m' }}/{{ title | slug }}/"
+  }
+  

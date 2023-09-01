@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ title }}</title>
+  <title>Video test</title>
   <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body class="mx-auto max-w-screen-lg py-4 min-h-screen bg-[#f8f8f8] text-xl max-sm:text-lg">
@@ -13,8 +13,13 @@
 <a class href='/buy'>pricing</a>
 </nav>
 <article class="flex flex-col gap-8 grow">
-  {{ content | safe }}
-  <time>{{ date }}</time>
+  <p>This is the content.</p>
+<video width="640" height="360" controls>
+    <source src="https://elt.s3.amazonaws.com/file/IMG_0189-compressed.MOV" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+  <time>Fri Sep 01 2023 01:00:00 GMT+0100 (British Summer Time)</time>
   </article>
 <footer class="mt-24">
 Follow <a href="https://twitter.com/nota_md">@nota_md</a> for updates.
