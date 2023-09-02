@@ -1133,8 +1133,8 @@ span.tertiary {
 }
 
 
-/* MASTODON */
-.mastodon-card {
+/* post */
+.post {
   max-width: 1000px;
   margin: 0 auto;
   background-color: #ffffff9c;
@@ -1144,12 +1144,12 @@ span.tertiary {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
   
-.mastodon-header {
+.post-header {
   display: flex;
   align-items: flex-start;
 }
 
-.mastodon-avatar {
+.post-avatar {
   width: 56px;
   height: 56px;
   border-radius: 50%;
@@ -1158,7 +1158,7 @@ span.tertiary {
   margin-left: 10px;
 }
 
-.mastodon-media {
+.post-media {
   width: 100%; 
   height: auto;
   border-radius: 10%;
@@ -1167,36 +1167,37 @@ span.tertiary {
   margin: auto;
 }
 
-.mastodon-user {
+.post-user {
   display: flex;
   flex-direction: column;
   margin-top: 6px;
 }
 
-.mastodon-username {
+.post-username {
   margin-top: 10px;
   font-size: 22px;
   color: #657786;
 }
 
-.mastodon-username a {
+.post-username a {
   color: #657786;
   text-decoration: none;
 }
 
-.mastodon-username a:hover {
+.post-username a:hover {
   color: #434d55;
   text-decoration: none;
 }
 
-.mastodon-display-name {
+.post-display-name {
   font-size: 22px;
   font-weight: bold;
   color: #1F5847;
+  margin-top: 1px;
   margin-bottom: -10px;
 }
 
-.mastodon-display-name a {
+.post-display-name a {
   font-size: 22px;
   font-weight: bold;
   color: #1F5847;
@@ -1204,7 +1205,7 @@ span.tertiary {
   text-decoration: none;
 }
 
-.mastodon-display-name a:hover {
+.post-display-name a:hover {
   font-size: 22px;
   font-weight: bold;
   color: #0b251d;
@@ -1212,7 +1213,7 @@ span.tertiary {
   text-decoration: none;
 }
 
-.mastodon-content p {
+.post-content p {
   margin-top: 20px;
   margin-bottom: 15px;
   font-size: 20px;
@@ -1221,7 +1222,7 @@ span.tertiary {
 }
 
 
-.mastodon-content img {
+.post-content img {
   max-width: 767px;
   height: auto;
   border-radius: 1%;
@@ -1230,12 +1231,12 @@ span.tertiary {
   margin-top: 15px;
 }
 
-.mastodon-footer {
+.post-footer {
   display: flex;
   justify-content: flex-end;
   color: #657786;
   margin-top: 0px;
   margin-left: 10px;
   margin-right: 15px;
-  font-size: 17px;
+  font-size: 19px;
 }

@@ -1,16 +1,9 @@
 {% macro single_post(title, url, content, date) %}
-<article class="mastodon-card">
-  <div class="mastodon-header">
-    <img src="/static/elliot-clowes.jpg" alt="User Avatar" class="mastodon-avatar">
-    <div class="mastodon-user">
-      <div class="mastodon-display-name"><a href="{{ url }}">Elliot Clowes</a></div>
-      <div class="mastodon-username"><a href="{{ url }}">clowes.blog</a></div>
-    </div>
-  </div>
-  <div class="mastodon-content">
+<article class="post">
+  <div class="post-content">
     {{ content | safe }}
   </div>
-  <a href="{{ url }}"><div class="mastodon-footer">{{ date | customDate }}</div></a>
+  <a href="{{ url }}"><div class="post-footer">{{ date | customDate }}</div></a>
 </article>
 <br/><br/>
 {% endmacro %}
