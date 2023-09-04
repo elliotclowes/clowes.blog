@@ -7,4 +7,4 @@ tags: ['plane', ‘malta’, ‘travel’]
 
 To Malta!
 
-![](/img/IMG_0591.jpeg)
+![](/img/IMG_0591.jpg)
