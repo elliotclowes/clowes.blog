@@ -5,6 +5,6 @@ date: 2023-09-04T20:46:00
 tags: ['plane', ‘malta’, ‘travel’]
 ---
 
-To Malta!
+To Malta! :)
 
 ![](/img/IMG_0591.jpg)
