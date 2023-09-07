@@ -7,4 +7,4 @@ tags: [‘malta’, ‘travel’, ‘walk’]
 
 One of my favourite things about arriving in a new place is that first morning walk on day one.
 
-![](https://elliotclowes.com/cold/clowes-blog/IMG_0618 (1).jpeg)
+![](https://elliotclowes.com/cold/clowes-blog/IMG_0618.jpeg)
