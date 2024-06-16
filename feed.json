@@ -1,0 +1,209 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "clowes.blog",
+	"icon": "https://micro.blog/ec/avatar.jpg",
+	"home_page_url": "https://clowes.blog/",
+	"feed_url": "https://clowes.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://ec.micro.blog/2024/06/15/perfect-weather-for.html",
+				
+				"content_html": "<p>Perfect weather for staying indoors and watching 📺 &ldquo;Clarkson&rsquo;s Farm&rdquo;. As a winterbug I’m loving this June weather.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Perfect weather for staying indoors and watching 📺 \"Clarkson's Farm\". As a winterbug I’m loving this June weather.\n\n<video width=\"650\" controls>\n  <source src=\"https://elliotclowes.com/cold/2024/rain-2024-06-15.mp4\" type=\"video/mp4\">\n</video>\n",
+				"date_published": "2024-06-15T14:17:32+01:00",
+				"url": "https://clowes.blog/2024/06/15/perfect-weather-for.html",
+				"tags": ["Film and TV","Video"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/15/sesimbra-portugal.html",
+				"title": "Portugal - 2024",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"uploads/2024/portugal-2.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-6.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-7.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-8.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-9.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-10.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-11.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-12.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-13.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-14.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-15.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-16.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-17.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-18.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-19.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-20.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-21.jpg\" width=\"600\" height=\"185\" alt=\"\"><img src=\"uploads/2024/portugal-22.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/portugal-24.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-15T13:03:28+01:00",
+				"url": "https://clowes.blog/2024/06/15/sesimbra-portugal.html",
+				"tags": ["Photo"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/15/reddit-is-a.html",
+				
+				"content_html": "<p>Reddit is a much more pleasant place once you start blocking certain words and subreddits.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Reddit is a much more pleasant place once you start blocking certain words and subreddits.\n\n<img src=\"uploads/2024/image.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-15T12:26:05+01:00",
+				"url": "https://clowes.blog/2024/06/15/reddit-is-a.html",
+				"tags": ["Screenshot","Photo","Technology"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/15/ive-been-rewatching.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;ve been rewatching those stunt/dare/prank reality shows of my teenage years, like Jackass and Viva la Bam.</p>\n<p>I just finished 🍿 &ldquo;<a href=\"https://www.justwatch.com/uk/movie/jackass-forever\">Jackass Forever</a>&rdquo;. They did introduce a few too many new people and it relied a bit too much on dick jokes, but overall it was better than I remembered. <strong>62/100</strong></p>\n",
+				"content_text": "<img src=\"uploads/2024/jackass-forever.jpg\" width=\"600\" height=\"111\" alt=\"\">\n\nI've been rewatching those stunt/dare/prank reality shows of my teenage years, like Jackass and Viva la Bam.\n\nI just finished 🍿 \"[Jackass Forever](https://www.justwatch.com/uk/movie/jackass-forever)\". They did introduce a few too many new people and it relied a bit too much on dick jokes, but overall it was better than I remembered. **62/100**\n",
+				"date_published": "2024-06-15T02:02:08+01:00",
+				"url": "https://clowes.blog/2024/06/15/ive-been-rewatching.html",
+				"tags": ["Film and TV"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/rewatching-bullet-train.html",
+				
+				"content_html": "<p>🍿 Rewatching “Bullet Train”. It’s a fun popcorn film. <strong>64</strong>.</p>\n<p>And it’s worth watching just for its array of bad British accents on display. “Wroof”. <a href=\"https://youtube.com/shorts/liB50mlR_GU?si=JhUuGjWs6nXGLt0e\">youtube.com/shorts/li&hellip;</a></p>\n",
+				"content_text": "🍿 Rewatching “Bullet Train”. It’s a fun popcorn film. **64**.\n\nAnd it’s worth watching just for its array of bad British accents on display. “Wroof”. [youtube.com/shorts/li...](https://youtube.com/shorts/liB50mlR_GU?si=JhUuGjWs6nXGLt0e)\n",
+				"date_published": "2024-06-14T21:13:41+01:00",
+				"url": "https://clowes.blog/2024/06/14/rewatching-bullet-train.html",
+				"tags": ["Film and TV"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/i-still-miss.html",
+				
+				"content_html": "<p>I still miss app.net <a href=\"https://techcrunch.com/2017/01/12/app-net-the-ambitious-project-to-build-a-better-twitter-is-finally-dead/\">techcrunch.com/2017/01/1&hellip;</a></p>\n",
+				"content_text": "I still miss app.net [techcrunch.com/2017/01/1...](https://techcrunch.com/2017/01/12/app-net-the-ambitious-project-to-build-a-better-twitter-is-finally-dead/)\n",
+				"date_published": "2024-06-14T18:44:57+01:00",
+				"url": "https://clowes.blog/2024/06/14/i-still-miss.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/i-dont-know.html",
+				
+				"content_html": "<p>I don’t know what it is but I can never bring myself to use the 😂 emoji.</p>\n",
+				"content_text": "I don’t know what it is but I can never bring myself to use the 😂 emoji.\n",
+				"date_published": "2024-06-14T18:42:35+01:00",
+				"url": "https://clowes.blog/2024/06/14/i-dont-know.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/i-am-pleased.html",
+				
+				"content_html": "<p>I am pleased to report that Uber/Deliveroo now lets you add extra patties to your Five Guys order. About time! 🍔</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I am pleased to report that Uber/Deliveroo now lets you add extra patties to your Five Guys order. About time! 🍔\n\n<img src=\"https://cdn.uploads.micro.blog/3636/2024/c4fd7504ef.jpg\" width=\"600\" height=\"529\" alt=\"\">\n",
+				"date_published": "2024-06-14T18:17:06+01:00",
+				"url": "https://clowes.blog/2024/06/14/i-am-pleased.html",
+				"tags": ["Screenshot","Food","Technology"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/more-than-this.html",
+				
+				"content_html": "<p>“More Than This” by Roxy Music is a fantastic song (it&rsquo;s great for testing out new speakers too). However, it has one of the worst music videos of all time. <a href=\"https://www.youtube.com/watch?v=kOnde5c7OG8\">www.youtube.com/watch</a></p>\n",
+				"content_text": "“More Than This” by Roxy Music is a fantastic song (it's great for testing out new speakers too). However, it has one of the worst music videos of all time. [www.youtube.com/watch](https://www.youtube.com/watch?v=kOnde5c7OG8)\n",
+				"date_published": "2024-06-14T16:53:14+01:00",
+				"url": "https://clowes.blog/2024/06/14/more-than-this.html",
+				"tags": ["Music","Video"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/few-feelings-are.html",
+				
+				"content_html": "<p>Few feelings are more wonderful than the exciting early stages of a new hobby.</p>\n",
+				"content_text": "Few feelings are more wonderful than the exciting early stages of a new hobby.\n",
+				"date_published": "2024-06-14T16:50:00+01:00",
+				"url": "https://clowes.blog/2024/06/14/few-feelings-are.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/i-began-tagging.html",
+				
+				"content_html": "<p>I began tagging emails as &lsquo;not important,&rsquo; but soon realised I was labelling 95% of them that way. Turns out most of the email I get isn&rsquo;t very important.</p>\n",
+				"content_text": "I began tagging emails as 'not important,' but soon realised I was labelling 95% of them that way. Turns out most of the email I get isn't very important.\n",
+				"date_published": "2024-06-14T16:13:48+01:00",
+				"url": "https://clowes.blog/2024/06/14/i-began-tagging.html",
+				"tags": ["Technology"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/14/cleaning-tip-for.html",
+				
+				"content_html": "<p>Cleaning tip for people with ADHD. Make yourself a coffee and <em>then</em> start cleaning. You will move <strong>fast</strong> knowing that coffee is getting cold, and will get the task done in no time at all.</p>\n",
+				"content_text": "Cleaning tip for people with ADHD. Make yourself a coffee and _then_ start cleaning. You will move **fast** knowing that coffee is getting cold, and will get the task done in no time at all.\n",
+				"date_published": "2024-06-14T08:09:22+01:00",
+				"url": "https://clowes.blog/2024/06/14/cleaning-tip-for.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/13/i-completely-misjudged.html",
+				
+				"content_html": "<p>I completely misjudged how crowded the train would be and snagged the first available seat, right next to someone. Turns out the train is nearly empty and I now look like a maniac.</p>\n",
+				"content_text": "I completely misjudged how crowded the train would be and snagged the first available seat, right next to someone. Turns out the train is nearly empty and I now look like a maniac.\n",
+				"date_published": "2024-06-13T20:07:15+01:00",
+				"url": "https://clowes.blog/2024/06/13/i-completely-misjudged.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/13/i-can-eat.html",
+				
+				"content_html": "<p>I can eat lunch and lose focus and have an energy crash and struggle to get work done.</p>\n<p>Or I can skip lunch and have an energy cash and struggle to get work done.</p>\n<p>Either way I lose.</p>\n<p>But sadly the no lunch approach often works best for me.</p>\n",
+				"content_text": "I can eat lunch and lose focus and have an energy crash and struggle to get work done.\n\nOr I can skip lunch and have an energy cash and struggle to get work done.\n\nEither way I lose. \n\nBut sadly the no lunch approach often works best for me.\n",
+				"date_published": "2024-06-13T17:55:12+01:00",
+				"url": "https://clowes.blog/2024/06/13/i-can-eat.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/13/ive-been-enjoying.html",
+				
+				"content_html": "<p>I’ve been enjoying a lot of Japanese ambient music recently.</p>\n<p>And I just discovered this one and love it. It’s made my train journey into a packed London a peaceful endeavour. <a href=\"https://open.spotify.com/album/5OB7POZKR1ElU8FjxYCXPB?si=ze6c5j3BQDunhmJSWAfrbg\">Spotify link</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve been enjoying a lot of Japanese ambient music recently.\n\nAnd I just discovered this one and love it. It’s made my train journey into a packed London a peaceful endeavour. [Spotify link](https://open.spotify.com/album/5OB7POZKR1ElU8FjxYCXPB?si=ze6c5j3BQDunhmJSWAfrbg)\n\n<img src=\"https://cdn.uploads.micro.blog/3636/2024/8d7b7cb93e.jpg\" width=\"316\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-13T17:49:04+01:00",
+				"url": "https://clowes.blog/2024/06/13/ive-been-enjoying.html",
+				"tags": ["Screenshot","Music"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/13/i-often-accidentally.html",
+				
+				"content_html": "<p>I often accidentally type 2014 instead of 2024. And when I do 2014 as a date doesn’t <em>feel</em> that long ago. But then I realise that it is a literal decade ago.</p>\n",
+				"content_text": "I often accidentally type 2014 instead of 2024. And when I do 2014 as a date doesn’t _feel_ that long ago. But then I realise that it is a literal decade ago.\n",
+				"date_published": "2024-06-13T17:47:05+01:00",
+				"url": "https://clowes.blog/2024/06/13/i-often-accidentally.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/12/sorry-i-missed.html",
+				
+				"content_html": "<p>Sorry, I missed that. I was too busy having a crisis over the communal food in the middle of the table, imagining all the microscopic spit showers it’s getting as you talk.</p>\n",
+				"content_text": "Sorry, I missed that. I was too busy having a crisis over the communal food in the middle of the table, imagining all the microscopic spit showers it’s getting as you talk.\n",
+				"date_published": "2024-06-12T09:56:32+01:00",
+				"url": "https://clowes.blog/2024/06/12/sorry-i-missed.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/09/highend-hotels-and.html",
+				
+				"content_html": "<p>High-end hotels and first class plane tickets are two things I’m always shocked at the price of. Every time.</p>\n",
+				"content_text": "High-end hotels and first class plane tickets are two things I’m always shocked at the price of. Every time.\n",
+				"date_published": "2024-06-09T14:52:09+01:00",
+				"url": "https://clowes.blog/2024/06/09/highend-hotels-and.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/07/id-never-been.html",
+				
+				"content_html": "<p>I’d never been in a proper bookshop nook before. The cosiest part of it is actually how it sounds in there. 360 degrees of books means all sound is absorbed like a lovely sponge.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’d never been in a proper bookshop nook before. The cosiest part of it is actually how it sounds in there. 360 degrees of books means all sound is absorbed like a lovely sponge.\n\n<img src=\"https://ec.micro.blog/uploads/2024/575de19bdb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-07T22:19:53+01:00",
+				"url": "https://clowes.blog/2024/06/07/id-never-been.html",
+				"tags": ["Photo"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/07/im-actually-really.html",
+				
+				"content_html": "<p>I’m actually really enjoying summer this year. But I have to admit, I still have autumn and Christmas on my mind rather often. I long for those crisp but foggy days when I crave nothing but walking, fantasy films and takeaways.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m actually really enjoying summer this year. But I have to admit, I still have autumn and Christmas on my mind rather often. I long for those crisp but foggy days when I crave nothing but walking, fantasy films and takeaways.\n\n<img src=\"https://ec.micro.blog/uploads/2024/8837bdf127.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-06-07T18:38:40+01:00",
+				"url": "https://clowes.blog/2024/06/07/im-actually-really.html",
+				"tags": ["Photo"]
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/07/test-post.html",
+				"title": "This is a test post",
+				"content_html": "<h2 id=\"this-is-a-h2\">This is a H2</h2>\n<p>I love discovering a wonderful new homepage or blog. Especially on the weekend when I have time to gently sip away at its content. This time it’s <em>Arun</em> and their website arun.is.</p>\n<h3 id=\"this-is-a-h3\">This is a H3</h3>\n<blockquote>\n<p>One of the biggest changes in my personality with middle age is that I no longer really enjoy travel beyond local weekend getaways. Almost no destination has a pain/novelty ratio that makes it worth it… Even though travel has gotten way more convenient overall (smartphones, eSIM cards, cashless payments, Uber, Google Translate — though at the expense of phone-loss anxiety), my tolerance for discomfort has plummeted. I don’t like shitty hotels/hostels, awkward couchsurfing, wrangling luggage, driving unfamiliar cars, figuring out transit systems… I especially don’t like wading through lots of options figuring out food options. The net effect is that I’ve gradually gone sessile.</p>\n</blockquote>\n<p><strong>Ordered list:</strong></p>\n<ol>\n<li>First item</li>\n<li>Second item</li>\n<li>Third item</li>\n<li>Fourth item</li>\n</ol>\n<p><strong>Unordered list:</strong></p>\n<ul>\n<li>First item</li>\n<li>Second item</li>\n<li>Third item</li>\n</ul>\n<p><code>this is some code. could be anything. SQL or JavaScript perhaps</code></p>\n<p>Here&rsquo;s a sentence with a footnote. <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<p><del>The world is flat.</del></p>\n<p>I need to highlight these ==very important words==.</p>\n<!-- raw HTML omitted -->\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>This is the footnote.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "## This is a H2\n\nI love discovering a wonderful new homepage or blog. Especially on the weekend when I have time to gently sip away at its content. This time it’s _Arun_ and their website arun.is.\n\n### This is a H3\n\n> One of the biggest changes in my personality with middle age is that I no longer really enjoy travel beyond local weekend getaways. Almost no destination has a pain/novelty ratio that makes it worth it… Even though travel has gotten way more convenient overall (smartphones, eSIM cards, cashless payments, Uber, Google Translate — though at the expense of phone-loss anxiety), my tolerance for discomfort has plummeted. I don’t like shitty hotels/hostels, awkward couchsurfing, wrangling luggage, driving unfamiliar cars, figuring out transit systems… I especially don’t like wading through lots of options figuring out food options. The net effect is that I’ve gradually gone sessile.\n\n**Ordered list:**\n1. First item\n2. Second item\n3. Third item\n4. Fourth item\n\n**Unordered list:**\n- First item\n- Second item\n- Third item\n\n```this is some code. could be anything. SQL or JavaScript perhaps```\n\nHere's a sentence with a footnote. [^1]\n\n[^1]: This is the footnote.\n\n~~The world is flat.~~\n\nI need to highlight these ==very important words==.\n\n<img src=\"https://cdn.uploads.micro.blog/3636/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-07T18:09:10+01:00",
+				"url": "https://clowes.blog/2024/06/07/test-post.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2024/06/07/i-love-the.html",
+				
+				"content_html": "<p>I love the illustration on the Pika.page. It makes me feel warm, fuzzy and happy for some reason. I really love it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love the illustration on the Pika.page. It makes me feel warm, fuzzy and happy for some reason. I really love it.\n\n<img src=\"https://cdn.uploads.micro.blog/3636/2024/img-0836.webp\" width=\"600\" height=\"541\" alt=\"\">\n",
+				"date_published": "2024-06-07T17:48:07+01:00",
+				"url": "https://clowes.blog/2024/06/07/i-love-the.html"
+			},
+			{
+				"id": "http://ec.micro.blog/2018/03/26/got-a-big.html",
+				
+				"content_html": "<p>Got a big fat wave of nostalgia listening to this for the first time in a while. It came out just before a holiday to Portugal and was played endlessly for the duration of the trip. Playing it again I am immediately teleported back to sunny Lisbon, c. 2013.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got a big fat wave of nostalgia listening to this for the first time in a while. It came out just before a holiday to Portugal and was played endlessly for the duration of the trip. Playing it again I am immediately teleported back to sunny Lisbon, c. 2013.\n\n<img src=\"https://cdn.uploads.micro.blog/3636/2018/2f108c25dc.jpg\" width=\"600\" height=\"599\" />\n",
+				"date_published": "2018-03-26T16:21:02+01:00",
+				"url": "https://clowes.blog/2018/03/26/got-a-big.html",
+				"tags": ["Screenshot","Music"]
+			}
+	]
+}
